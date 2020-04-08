@@ -30,3 +30,5 @@ I have no idea what you are talking about
 ### Running the code:
 
 Start the spring boot app .... will deploy it on AWS and update link here
+
+http://ec2-52-91-44-254.compute-1.amazonaws.com:8080/swagger-ui.html
